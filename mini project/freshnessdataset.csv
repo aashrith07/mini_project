@@ -1,0 +1,101 @@
+Ammonia,Oxygen,Temperature,Time_days,Condition_ripe,Outcome
+28,28,9,45,1,spoilt
+2,3,13,14,1,spoilt
+8,1,6,64,1,spoilt
+25,18,22,6,1,spoilt
+15,26,21,63,0,not spoilt
+22,31,19,40,1,spoilt
+39,29,4,60,1,spoilt
+13,34,11,20,0,not spoilt
+19,39,20,7,0,not spoilt
+25,24,25,10,1,spoilt
+22,12,9,6,1,spoilt
+5,26,6,93,0,not spoilt
+32,29,20,8,1,spoilt
+14,20,5,99,1,spoilt
+39,35,6,21,1,spoilt
+4,31,3,11,0,not spoilt
+28,34,8,95,1,spoilt
+1,33,1,54,0,not spoilt
+39,12,18,32,1,spoilt
+31,26,13,99,1,spoilt
+29,37,14,75,1,spoilt
+33,27,19,44,1,spoilt
+25,17,11,89,1,spoilt
+23,25,19,81,1,spoilt
+14,38,24,9,0,not spoilt
+21,12,7,62,1,spoilt
+16,22,21,54,0,not spoilt
+10,26,20,52,0,not spoilt
+26,20,22,8,1,spoilt
+11,31,19,25,0,not spoilt
+17,24,23,55,0,not spoilt
+31,7,19,66,1,spoilt
+6,36,18,55,0,not spoilt
+23,4,12,39,1,spoilt
+38,1,10,62,1,spoilt
+39,24,3,32,1,spoilt
+34,40,16,5,1,spoilt
+33,14,19,4,1,spoilt
+28,32,5,26,1,spoilt
+23,11,7,11,1,spoilt
+16,26,22,53,0,not spoilt
+35,13,17,81,1,spoilt
+36,3,15,71,1,spoilt
+18,24,18,52,0,not spoilt
+2,13,20,87,1,spoilt
+23,12,20,45,1,spoilt
+14,37,10,99,0,not spoilt
+26,28,16,82,1,spoilt
+11,33,7,67,0,not spoilt
+30,14,25,88,1,spoilt
+39,27,23,83,1,spoilt
+39,12,9,53,1,spoilt
+13,35,13,82,0,not spoilt
+23,38,24,95,1,spoilt
+34,26,22,10,1,spoilt
+4,32,17,33,0,not spoilt
+24,31,1,82,1,spoilt
+24,6,2,20,1,spoilt
+19,40,15,76,0,not spoilt
+20,37,4,3,0,not spoilt
+7,17,8,84,1,spoilt
+33,9,1,30,1,spoilt
+38,25,17,62,1,spoilt
+29,16,4,54,1,spoilt
+20,14,22,64,1,spoilt
+14,29,9,82,0,not spoilt
+26,33,12,99,1,spoilt
+33,20,4,3,1,spoilt
+19,20,12,58,0,not spoilt
+10,26,14,83,0,not spoilt
+7,7,19,15,1,spoilt
+23,1,17,50,1,spoilt
+27,20,19,45,1,spoilt
+6,20,24,18,0,not spoilt
+23,37,20,82,1,spoilt
+28,32,12,46,1,spoilt
+23,7,18,90,1,spoilt
+23,33,14,31,1,spoilt
+19,35,6,48,0,not spoilt
+11,33,15,55,0,not spoilt
+3,28,6,88,0,not spoilt
+25,10,20,94,1,spoilt
+7,32,12,39,0,not spoilt
+35,17,16,16,1,spoilt
+34,4,24,95,1,spoilt
+17,32,8,72,0,not spoilt
+7,35,8,53,0,not spoilt
+18,39,17,48,0,not spoilt
+5,31,18,90,0,not spoilt
+40,22,12,30,1,spoilt
+22,9,19,26,1,spoilt
+28,30,21,59,1,spoilt
+2,33,1,59,0,not spoilt
+34,10,25,49,1,spoilt
+31,17,25,57,1,spoilt
+5,35,15,20,0,not spoilt
+7,26,19,40,0,not spoilt
+37,9,8,33,1,spoilt
+10,34,15,84,0,not spoilt
+6,40,23,25,0,not spoilt
